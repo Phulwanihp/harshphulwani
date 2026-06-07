@@ -4,38 +4,46 @@
 
 ## 👨‍💻 About Me
 
-Skilled **Java Full Stack Developer** with **3+ years** of hands-on experience in designing and developing robust **RESTful APIs** and scalable backend systems. Adept at applying **OOP principles**, **design patterns**, and **SOLID methodologies** to build maintainable and efficient applications. Experienced in **distributed system architecture** and **microservices**. A proactive team player with a strong problem-solving mindset and a commitment to delivering high-quality solutions.
+Skilled **Java Full Stack Developer** with **4+ years** of hands-on experience in designing and developing robust **RESTful APIs** and scalable backend systems. Adept at applying **OOP principles**, **design patterns**, and **SOLID methodologies** to build maintainable and efficient applications. Experienced in **distributed system architecture** and **microservices**. A proactive team player with a strong problem-solving mindset and a commitment to delivering high-quality solutions.
 
 ---
 
 ## 🛠️ Skills
 
 ### **Languages**
-- **Experienced:** Java 8, JavaScript, SQL  
+- **Experienced:** Java 8, SQL  
 - **Familiar:** C, C++  
 
 ### **Frameworks**
-- **Experienced:** Spring, SpringBoot, JSP & Servlets, React.js  
+- **Experienced:** Spring, SpringBoot, JSP & Servlets
 
 ### **Cloud Services**
-- **Experienced:** AWS (Lambda, S3, ECS, EC2, ECR, RDS)  
+- **Experienced:** AWS (Lambda, S3, ECS, EC2, ECR, RDS,EBS, API Gateway, Route 53, Cloudfront)  
+
+### **Devops Tools**
+- **Experienced:** Terraform, Linux, Docker, Github Actions  
 
 ### **Databases**
-- **Experienced:** SQL, NoSQL, DynamoDB, MongoDB  
+- **Experienced:** SQL, NoSQL, DynamoDB  
 
 ### **Developer Tools**
-- **Experienced:** Git, Docker, Kubernetes, Postman, Jira  
+- **Experienced:** Git, Postman, Jira  
 
 ---
 
 ## 💼 Experience
 
 ### **Cognizant Technology Solutions India Pvt Ltd**  
-**Software Engineer & Security Researcher (Compulsory Military Service)**  
-- Implemented a military cooperation system, a web-based real-time messenger in **Scala on Lift**.  
-- Improved functionality on military command and control system for incident response with **Java Servlet**.  
-- Lead engineer on agent-less backtracking system to discover client device fingerprints (including public/private IP) independently of Proxy, VPN, and NAT.  
-
+**Software Engineer (John Deere Service)**  
+- Developed the Claim Assist Application, including project setup, backend architecture, and GitHub repository creation.
+- Collaborated with John Deere stakeholders to gather requirements, refine stories, and deliver features aligned with business needs.
+- Implemented JWT authentication, Global Exception Handling, and modular service design to improve security and maintainability.
+- Built CI/CD pipelines using GitHub Actions to automate build, test, containerization, and multi‑environment deployments.
+- Integrated Redis Cache to optimize dealer transfer workflows, significantly improving data retrieval speed and reducing latency.
+- Used RestTemplate to enable communication between microservices, facilitating data exchange and integration across projects.
+- Leveraged Datadog to centralize logs, monitor application health, and improve issue detection.
+- Resolved key security and code‑quality issues from Mend, Checkmarx, Jerboa, Semgrep, and GitHub Actions Lint.
+- Documented APIs, deployment processes, and architecture flows, enabling smooth onboarding and handovers.
 ### **Cognizant Technology Solutions India Pvt Ltd**  
 **Programmer Analyst (Backend Developer)**  
 - Contributed to feature development in a **John Deere E-Commerce** application using **Agile practices**.  
@@ -71,8 +79,9 @@ Skilled **Java Full Stack Developer** with **3+ years** of hands-on experience i
 
 ## 📜 Certifications
 
-- **Oracle Certified, Java 8 Developer (2023)**  
-- **AWS Certified, Cloud Practitioner (2023)**  
+- **Oracle Certified, Java 8 Developer (2025)**  
+- **AWS Certified, Cloud Practitioner (2025)**
+- **AWS Certified, Developer Associate (2026)**
 
 ---
 
